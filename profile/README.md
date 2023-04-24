@@ -14,7 +14,7 @@ At CipherBloxLabs, our mission is to help organizations across various industrie
 
 We'd love to hear from you! If you're interested in our products, services, or just want to chat, feel free to reach out:
 
-- [Visit our website](https://Kyran@cipherbloxlabs.io)
+- [Visit our website](https://cipherbloxlabs.io)
 - [Follow us on Twitter](https://twitter.com/CipherBloxLabs)
 
 
